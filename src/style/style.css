@@ -1,0 +1,10 @@
+* {box-sizing:border-box;}
+#root {
+    display:flex; flex-flow:row wrap;
+    width:100%;
+}
+img {width:100%;}
+
+.movielist {
+  margin: 10px;
+} 
