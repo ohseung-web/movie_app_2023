@@ -1,0 +1,11 @@
+#root .navi {
+  position:fixed; left:20px; top:20px; z-index:999;
+    background:#fff; overflow:hidden;
+    border-radius:10px; width:150px; height:120px;
+}
+#root .navi a {
+    display:block; padding:20px;
+    text-decoration:none; color:#222;
+    transition:all 0.2s;
+}
+#root .navi a:hover {background:#222; color:#fff;}
